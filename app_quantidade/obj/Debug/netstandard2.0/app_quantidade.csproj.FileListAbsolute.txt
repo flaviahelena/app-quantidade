@@ -1,0 +1,15 @@
+D:\repos\app_quantidade\app_quantidade\bin\Debug\netstandard2.0\app_quantidade.deps.json
+D:\repos\app_quantidade\app_quantidade\bin\Debug\netstandard2.0\app_quantidade.dll
+D:\repos\app_quantidade\app_quantidade\bin\Debug\netstandard2.0\app_quantidade.pdb
+D:\repos\app_quantidade\app_quantidade\obj\Debug\netstandard2.0\app_quantidade.csproj.AssemblyReference.cache
+D:\repos\app_quantidade\app_quantidade\obj\Debug\netstandard2.0\app_quantidade.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\app_quantidade\app_quantidade\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\repos\app_quantidade\app_quantidade\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\repos\app_quantidade\app_quantidade\obj\Debug\netstandard2.0\app_quantidade.AssemblyInfoInputs.cache
+D:\repos\app_quantidade\app_quantidade\obj\Debug\netstandard2.0\app_quantidade.AssemblyInfo.cs
+D:\repos\app_quantidade\app_quantidade\obj\Debug\netstandard2.0\app_quantidade.csproj.CoreCompileInputs.cache
+D:\repos\app_quantidade\app_quantidade\obj\Debug\netstandard2.0\XamlC.stamp
+D:\repos\app_quantidade\app_quantidade\obj\Debug\netstandard2.0\app_quantidade.dll
+D:\repos\app_quantidade\app_quantidade\obj\Debug\netstandard2.0\refint\app_quantidade.dll
+D:\repos\app_quantidade\app_quantidade\obj\Debug\netstandard2.0\app_quantidade.pdb
+D:\repos\app_quantidade\app_quantidade\obj\Debug\netstandard2.0\ref\app_quantidade.dll
