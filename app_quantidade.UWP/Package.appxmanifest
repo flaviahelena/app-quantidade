@@ -32,11 +32,11 @@
       Executable="$targetnametoken$.exe"
       EntryPoint="app_quantidade.UWP.App">
       <uap:VisualElements
-        DisplayName="app_quantidade.UWP"
+        DisplayName="App - Quantidade"
         Square150x150Logo="Assets\Square150x150Logo.png"
         Square44x44Logo="Assets\Square44x44Logo.png"
         Description="app_quantidade.UWP"
-        BackgroundColor="transparent">
+        BackgroundColor="#FFE600">
         <uap:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png" Square310x310Logo="Assets\LargeTile.png" Square71x71Logo="Assets\SmallTile.png">
           <uap:ShowNameOnTiles>
             <uap:ShowOn Tile="square150x150Logo" />
@@ -44,7 +44,7 @@
             <uap:ShowOn Tile="square310x310Logo" />
           </uap:ShowNameOnTiles>
         </uap:DefaultTile>
-        <uap:SplashScreen Image="Assets\SplashScreen.png" />
+        <uap:SplashScreen Image="Assets\SplashScreen.png"  BackgroundColor="#FFE600"/>
       </uap:VisualElements>
     </Application>
   </Applications>

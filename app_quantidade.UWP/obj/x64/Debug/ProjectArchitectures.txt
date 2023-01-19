@@ -1,0 +1,1 @@
+D:\repos\app_quantidade\app_quantidade.UWP\app_quantidade.UWP.csproj;x64

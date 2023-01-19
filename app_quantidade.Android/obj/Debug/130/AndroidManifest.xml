@@ -10,8 +10,9 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-  <application android:label="app_quantidade.Android" android:theme="@style/MainTheme" android:name="android.app.Application" android:allowBackup="true" android:icon="@mipmap/ic_launcher" android:debuggable="true" android:extractNativeLibs="true">
-    <activity android:configChanges="orientation|smallestScreenSize|screenLayout|screenSize|uiMode" android:icon="@mipmap/ic_launcher" android:label="app_quantidade" android:theme="@style/MainTheme" android:name="crc641dacb70d84ba0a8d.MainActivity" android:exported="true">
+  <application android:label="app_quantidade.Android" android:theme="@style/MainTheme" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true" android:extractNativeLibs="true">
+    <activity android:name="crc641dacb70d84ba0a8d.MainActivity" />
+    <activity android:configChanges="orientation|smallestScreenSize|screenLayout|screenSize|uiMode" android:icon="@mipmap/ic_launcher" android:label="App - Quantidade" android:theme="@style/MainTheme.Splash" android:name="crc641dacb70d84ba0a8d.SplashActivity" android:exported="true">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />

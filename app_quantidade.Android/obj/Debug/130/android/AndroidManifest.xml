@@ -15,8 +15,9 @@
       <action android:name="android.media.browse.MediaBrowserService" />
     </intent>
   </queries>
-  <application android:name="android.app.Application" android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:debuggable="true" android:extractNativeLibs="true" android:icon="@mipmap/ic_launcher" android:label="app_quantidade.Android" android:theme="@style/MainTheme">
-    <activity android:name="crc641dacb70d84ba0a8d.MainActivity" android:configChanges="orientation|smallestScreenSize|screenLayout|screenSize|uiMode" android:exported="true" android:icon="@mipmap/ic_launcher" android:label="app_quantidade" android:theme="@style/MainTheme">
+  <application android:name="android.app.Application" android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:debuggable="true" android:extractNativeLibs="true" android:label="app_quantidade.Android" android:theme="@style/MainTheme">
+    <activity android:name="crc641dacb70d84ba0a8d.MainActivity" />
+    <activity android:name="crc641dacb70d84ba0a8d.SplashActivity" android:configChanges="orientation|smallestScreenSize|screenLayout|screenSize|uiMode" android:exported="true" android:icon="@mipmap/ic_launcher" android:label="App - Quantidade" android:theme="@style/MainTheme.Splash">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />

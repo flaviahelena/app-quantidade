@@ -9,7 +9,9 @@ namespace app_quantidade
         public App()
         {
             InitializeComponent();
-
+#if DEBUG
+            HotReloader.Current.Run(this);
+#endif
             MainPage = new MainPage();
         }
 
